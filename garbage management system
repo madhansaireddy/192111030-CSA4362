@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Garbage Management System</title>
+  <style>
+    /* Add your CSS styles here */
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Welcome to Garbage Management System</h1>
+</header>
+
+<!-- Administrator Section -->
+<section id="administrator">
+  <h2>Administrator</h2>
+  <ul>
+    <li><a href="admin-login.html">Login</a></li>
+    <li><a href="create-garbage-bin.html">Create Garbage bin</a></li>
+    <li><a href="update-delete-bin.html">Update/Delete garbage bin</a></li>
+    <li><a href="assign-route.html">Assign best route for drivers</a></li>
+    <li><a href="manage-driver.html">Manage driver</a></li>
+    <li><a href="view-garbage-report.html">View Garbage Report</a></li>
+    <li><a href="view-complaints.html">View complaints from public</a></li>
+  </ul>
+</section>
+
+<!-- General Public Section -->
+<section id="general-public">
+  <h2>General Public</h2>
+  <ul>
+    <li><a href="register.html">Register</a></li>
+    <li><a href="public-login.html">Login</a></li>
+    <li><a href="register-complaint.html">Register complaint</a></li>
+    <li><a href="my-complaint-status.html">My complaint & status</a></li>
+  </ul>
+</section>
+
+<!-- Driver Section -->
+<section id="driver">
+  <h2>Driver</h2>
+  <ul>
+    <li><a href="driver-login.html">Login</a></li>
+    <li><a href="check-updates.html">Check daily work updates</a></li>
+    <li><a href="choose-route.html">Choose best route</a></li>
+    <li><a href="update-garbage-load.html">Update garbage load</a></li>
+  </ul>
+</section>
+
+
+<!-- Add your JavaScript code here if needed -->
+
+</body>
+</html>
